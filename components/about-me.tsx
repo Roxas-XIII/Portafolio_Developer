@@ -50,21 +50,13 @@ const AboutMe = () => {
                             </div>
                         ))}
                     </div>
-                    <p className="my-8"> Ingeniero en Ciencias de la Computación con
- experiencia en desarrollo web Full Stack,
- abarcando tanto el Front-End como el Back-End.
- He participado en proyectos que integran el diseño
- de interfaces interactivas, la gestión de bases de
- datos, soporte técnico y mantenimiento de equipos
- informáticos. Me caracterizo por un pensamiento
- analítico, creatividad y una sólida orientación a
- resultados. Manejo tecnologías como React, Flask,
- JavaScript, Python y SQL Server, estoy en
- constante
- búsqueda de aprender nuevas
- herramientas, marcos de trabajo que potencien mis
- habilidades y aporten valor a los proyectos en los
- que participo.</p>
+                    <p className="my-8"> Ingeniero en Ciencias de la Computación | Desarrollador Full Stack
+
+Especializado en la creación de soluciones digitales eficientes que alinean la experiencia del usuario con los objetivos de negocio. Cuento con experiencia sólida desarrollando aplicaciones móviles y sistemas web completos, integrando tecnologías de Frontend (React, Flutter) y Backend (Python, PHP, SQL Server).
+
+Mi enfoque se centra en el pensamiento analítico y la resolución de problemas técnicos complejos, desde la gestión de bases de datos hasta el despliegue en entornos de nube como Render y Railway. Me caracterizo por mi capacidad de liderazgo, comunicación efectiva y una búsqueda constante de marcos de trabajo que optimicen el desarrollo y aporten valor real al proyecto.
+                        
+                    </p>
 
                    
                 </div>
